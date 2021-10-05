@@ -23,7 +23,7 @@
 				
 				for ($i=0; $i<=35; $i++) {
 					echo "<tr>";
-						echo "<td>" . $ibex35[0] . "</td>";
+						echo "<td>" . $ibex35[0] . + $i ."</td>";
 						echo "<td>" . random_int(0, 1000) . "," . random_int(0, 99) . "</td>";
 						echo "<td>" . random_int(0, 1000) . "," . random_int(0, 99) . "%</td>";
 						echo "<td>" . random_int(0, 1000) . "," . random_int(0, 99) . "</td>";
