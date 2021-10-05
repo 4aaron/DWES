@@ -21,7 +21,7 @@
 					echo "<td>" . $ibex35[7] . "</td>";
 					echo "<td>" . $ibex35[8] . "</td>";
 				echo "</tr>";
-								
+
 				for ($i=0; $i<=35; $i++) {
 					echo "<tr>";
 						echo "<td>" . $empresa['nempresa'] . "</td>";
@@ -36,7 +36,7 @@
 					echo "</tr>";
 				}
 			echo "</table>";
-			
+
 			echo "<br><br><a href='../'>Volver</a>";
 		?>
 	</BODY>
