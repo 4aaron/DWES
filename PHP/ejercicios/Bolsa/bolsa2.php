@@ -7,17 +7,7 @@
 			echo "<h3>Bolsa</h3>";
 			
 			$ibex35  = array("NombreEmpresa", "Precio", "Porcentaje", "V.Euros", "Volumen", "Cap", "Per", "Rent", "Hora");
-			$empresa = array(
-								"nempresa"=>"Nombre",
-								"precio"=> random_int(0, 1000),
-								"vporcentaje"=> random_int(0, 100) . "%",
-								"veuros"=> random_int(0, 1000) . "€",
-								"volumen"=> random_int(0, 1000),
-								"cap"=> random_int(0, 1000),
-								"per"=> random_int(0, 1000),
-								"rent"=> random_int(0, 100) . "%",
-								"hora"=> random_int(0, 24) . ":" . random_int(0, 59)
-							);
+			$empresa = array("nempresa"=>"Nombre", "precio"=> random_int(0, 1000), "vporcentaje"=> random_int(0, 100) . "%", "veuros"=> random_int(0, 1000) . "€", "volumen"=> random_int(0, 1000), "cap"=> random_int(0, 1000), "per"=> random_int(0, 1000), "rent"=> random_int(0, 100) . "%", "hora"=> random_int(0, 24) . ":" . random_int(0, 59));
 			
 			echo "<table border=1 width=750px>";
 				echo "<tr>";
