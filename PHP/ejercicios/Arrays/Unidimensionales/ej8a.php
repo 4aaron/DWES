@@ -1,6 +1,6 @@
 <HTML>
 	<HEAD>
-		<TITLE>EJ1A–Array que almacene los 20 primeros números impares</TITLE>
+		<TITLE>EJ8A–Crear un array asociativo con los nombres y notas de alumnos</TITLE>
 	</HEAD>
 	<BODY>
 		<?php

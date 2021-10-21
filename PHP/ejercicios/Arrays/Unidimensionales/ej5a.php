@@ -1,6 +1,6 @@
 <HTML>
 	<HEAD>
-		<TITLE>EJ1A–Array que almacene los 20 primeros números impares</TITLE>
+		<TITLE>EJ5A–Definir 3 arrays y unirlos de diferentes maneras</TITLE>
 	</HEAD>
 	<BODY>
 		<?php
