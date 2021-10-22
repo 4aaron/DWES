@@ -21,7 +21,7 @@
 			sprintf ("IP: $ip2<br>Binario: ");
 			sprintf (base_convert($ip2, 10, 2));
 			
-			printf ("<br><br><a href='../'>Volver</a>");
+			printf ("<br><br><a href='.'>Volver</a>");
 		?>
 	</BODY>
 </HTML>

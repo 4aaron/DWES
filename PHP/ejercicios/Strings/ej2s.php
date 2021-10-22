@@ -15,7 +15,7 @@
 			echo ("<br><br>IP: $ip2<br>Binario: ");
 			echo (base_convert($ip, 10, 2));
 			
-			echo "<br><br><a href='../'>Volver</a>";
+			echo "<br><br><a href='.'>Volver</a>";
 		?>
 	</BODY>
 </HTML>

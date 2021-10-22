@@ -70,7 +70,7 @@
 			}
 
 			// Enlace para volver al inicio
-			echo "<br><br><a href='../'>Volver</a>";
+			echo "<br><br><a href='.'>Volver</a>";
 			
 		?>
 	</BODY>

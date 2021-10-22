@@ -10,7 +10,7 @@
 			echo "El número $num en binario es  ";
 			echo str_pad((base_convert($num, 10, 2)), 8, "0", STR_PAD_LEFT);
 			
-			echo "<br><br><a href='../'>Volver</a>";
+			echo "<br><br><a href='.'>Volver</a>";
 		?>
 	</BODY>
 </HTML>

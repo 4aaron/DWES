@@ -523,7 +523,7 @@
 																				}
 			}
 			
-			echo "<br><br><a href='../'>Volver</a>";
+			echo "<br><br><a href='.'>Volver</a>";
 		?>
 	</BODY>
 </HTML>

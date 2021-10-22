@@ -14,7 +14,7 @@
 			echo "Hexadecimal = ";
 			echo strtoupper(base_convert($num, $dec, $hex));
 			
-			echo "<br><br><a href='../'>Volver</a>";
+			echo "<br><br><a href='.'>Volver</a>";
 		?>
 	</BODY>
 </HTML>

@@ -129,7 +129,7 @@
 				
 			echo "</table>";
 			
-			echo "<br><a href='../'>Volver</a>";
+			echo "<br><a href='.'>Volver</a>";
 		?>
 	</BODY>
 </HTML>

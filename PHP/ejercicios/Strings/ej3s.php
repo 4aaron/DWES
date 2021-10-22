@@ -20,7 +20,7 @@
 			echo "<br>";
 			echo "Rango: $octetos[0].$octetos[1].0.1 a $octetos[0].$octetos[1].255.254";
 			
-			echo "<br><br><a href='../'>Volver</a>";
+			echo "<br><br><a href='.'>Volver</a>";
 		?>
 	</BODY>
 </HTML>
